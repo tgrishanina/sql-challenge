@@ -6,7 +6,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 # Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the
 tables. To create the sketch, feel free to use a tool like QuickDBD.
-
+![quickDBD_screenshot.png]https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/quickDBD_screenshot.png
 # Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
