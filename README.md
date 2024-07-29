@@ -18,6 +18,8 @@ For the primary keys, verify that the column is unique. Otherwise, create a comp
 Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
+![table_schemas.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/table_schemas.png)
+
 
 # Data Analysis
 1) List the employee number, last name, first name, sex, and salary of each employee.
