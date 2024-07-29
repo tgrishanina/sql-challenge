@@ -36,7 +36,7 @@ Import each CSV file into its corresponding SQL table.
 ![challenge9question5.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question5.png)
 
 6) List each employee in the Sales department, including their employee number, last name, and first name.
-![challenge9question6.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question5.png)
+![challenge9question6.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question6.png)
 
 7) List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 ![challenge9question7.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question7.png)
