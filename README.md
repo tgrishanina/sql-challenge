@@ -30,7 +30,8 @@ Import each CSV file into its corresponding SQL table.
 ![challenge9question3.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question3.png)
 
 4) List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-! [challenge9question4.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question4.png)
+
+![challenge9question4.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question4.png)
 
 5) List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 ![challenge9question5.png](https://github.com/tgrishanina/sql-challenge/blob/main/Employee%20SQL/challenge9question5.png)
